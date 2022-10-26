@@ -2,6 +2,8 @@
 
 This project was made with react, firebase and tailwindcss
 
+[Démo](https://axelverglas.github.io/todolist-react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
